@@ -1,5 +1,12 @@
 # Domotica-casera
 
+## Comunicaciones
+
+Los sistemas envian sus datos via MQTT
+Un raspberry recibe los datos, los guarda y los publica en thingSpeak
+
+## Seguridad
+
 [Seguridad en las comunicaciones (https)](https://hackaday.com/2018/10/21/https-for-the-internet-of-things/)
 
 ## Medida de consumo
